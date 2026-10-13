@@ -119,7 +119,7 @@ The University Campus Network Planner demonstrates the practical application of 
 
 
 ## TEAM MEMBERS
-Shubham Sahni
-Saish Patil
-Tanishk Mahajan
-Pranav Arjugade
+Shubham Sahni (25102B0047) ,
+Saish Patil (25102B0046) ,
+Tanishk Mahajan (25102B0044) ,
+Pranav Arjugade (251020056)
