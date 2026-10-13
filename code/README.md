@@ -116,3 +116,10 @@ Let `V` be the number of buildings.
 ## Conclusion
 
 The University Campus Network Planner demonstrates the practical application of **Prim’s Greedy Algorithm** for finding a Minimum Spanning Tree. It provides a simple way to plan connections between campus buildings while minimizing total cable length and installation cost, provided the graph is connected.
+
+
+## TEAM MEMBERS
+Shubham Sahni
+Saish Patil
+Tanishk Mahajan
+Pranav Arjugade
